@@ -19,8 +19,8 @@ git config --global user.email "your.email@example.com"
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/who-health-predictor.git
-   cd who-health-predictor
+   git clone https://github.com/YOUR-USERNAME/WHO-website.git
+   cd WHO-website
    ```
 
 2. **Install dependencies**:
