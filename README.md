@@ -85,15 +85,4 @@ All pages should:
 - Support language switching
 - Use the shared header component
 
-## Common Issues
-- If you see errors after pulling, try `npm install` to update dependencies
-- If you have merge conflicts, ask for help to resolve them properly
 
-Remember this is a small project - communicate with your team frequently and keep changes simple!
-
-Citations:
-[1] https://pplx-res.cloudinary.com/image/upload/v1742900973/user_uploads/LJMWnvBDRuokZNr/image.jpg
-[2] https://pplx-res.cloudinary.com/image/upload/v1742900976/user_uploads/GPWEtgGMwjRKolN/image.jpg
-
----
-Answer from Perplexity: pplx.ai/share
